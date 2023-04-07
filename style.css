@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://drive.google.com/uc?export=view&id=1PdWO29oJu9KW0wjSTNyMuP5rC34h8E6m);
+    background-size: 100vw;
+    padding-top: 125px;
+    margin: 0px;
+    text-align: center;
+}
+
+.links {
+    border-bottom: 20px;
+}
+
+#foot {
+    border-top: 1px solid grey;
+    position: absolute;
+    bottom: 0px;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding-left: 0px;
+    height: 40px;
+}
