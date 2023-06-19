@@ -3,7 +3,7 @@ body {
     padding-top: 10px;
     margin: 0px;
     text-align: center;
-    background-color: black;
+    background-color: rgb(36, 36, 36);
     color: antiquewhite;
 }
 
@@ -36,5 +36,5 @@ p {
     width: 100vw;
     padding-left: 0px;
     height: 35px;
-    background-color: rgba(255, 255, 255, .3)
+    background-color: rgba(255, 255, 255, .1)
 }
